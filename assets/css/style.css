@@ -1,0 +1,86 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.success {
+  background-color: #28A745;
+}
+
+nav img {
+  width: 80px;
+}
+
+.card1 {
+  height: 315pt;
+  width: 278pt;
+}
+
+.font-light {
+  font-weight: 300;
+  font-size: 22px;
+  color: #212529;
+}
+
+.font-light2 {
+  font-weight: 300;
+  font-size: 18px;
+  color: #707070;
+}
+
+.font-light3 {
+  font-weight: 300;
+  font-size: 15px;
+  color: #707070;
+  margin-top: -1rem;
+}
+
+.price1 {
+  font-weight: 300;
+  font-size: 18px;
+  color: #707070;
+  vertical-align: middle;
+  margin-right: -1rem;
+}
+
+.price2 {
+  font-weight: 500;
+  font-size: 24px;
+  color: #28A745;
+}
+
+.font-light-big {
+  font-weight: 300;
+  font-size: 21px;
+  color: #212529;
+}
+
+.font-weight-medium {
+  font-weight: 500;
+  font-size: 20px;
+  margin-bottom: -0.5rem;
+}
+
+.formulario1 {
+  margin-top: -1.5rem;
+}
+
+.enviar {
+  font-weight: 500;
+  font-size: 18px;
+  color: #212529;
+  width: 120px;
+}
+
+.logofooter {
+  width: 100px;
+  height: auto;
+}
+
+.color-footer {
+  color: #707070;
+}
+
+.font-footer {
+  font-weight: 300;
+  font-size: 18px;
+}
